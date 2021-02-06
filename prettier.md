@@ -2,6 +2,8 @@
 
 ## Config
 
+`.prettierrc.json`
+
 ```js
 {
   "printWidth": 100,

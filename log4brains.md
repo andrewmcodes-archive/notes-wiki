@@ -1,6 +1,6 @@
 # Log4brains
 
-[Log4brains](https://github.com/thomvaill/log4brains) is a docs-as-code knowledge base for your development and infrastructure projects. Basically a [[Documentation]]
+[Log4brains](https://github.com/thomvaill/log4brains) is a docs-as-code knowledge base for your development and infrastructure projects. Basically a [[Documentation]] [[Generator]]
 
 ## Install
 

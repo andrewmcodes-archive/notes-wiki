@@ -9,6 +9,7 @@
 
 ### Premium
 
+- https://jumpstartrails.com
 ### Free
 
 - [GitHub - lazaronixon/the_construct: A Modern Rails Template](https://github.com/lazaronixon/the_construct)

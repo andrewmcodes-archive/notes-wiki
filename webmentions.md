@@ -1,2 +1,19 @@
 # Webmentions
 
+Easily one of the coolest things I've seen on the web lately.
+
+## Tools
+
+- [Bridgy](https://brid.gy/)
+- [Webmention.io](https://webmention.io/)
+- [Automate your outgoing webmentions](https://webmention.app/)
+
+## Articles
+
+- [Using Webmentions in Eleventy | Max Böck](https://mxb.dev/blog/using-webmentions-on-static-sites/)
+- [Clientside Webmentions ∊ swyx.io](https://www.swyx.io/clientside-webmentions/)
+
+## GitHub Repos
+
+- [GitHub - maxboeck/eleventastic: An Eleventy Starter Kit](https://github.com/maxboeck/eleventastic)
+- [GitHub - aarongustafson/jekyll-webmention_io: A Jekyll Plugin for rendering Webmentions via Webmention.io](https://github.com/aarongustafson/jekyll-webmention_io)

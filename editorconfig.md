@@ -1,5 +1,8 @@
 # Editorconfig
 
+- [[VS Code]]
+## Config
+
 `.editorconfig`
 
 ```sh

@@ -12,7 +12,7 @@
 # editorconfig.org
 
 root = true
-´
+
 [*]
 
 # change these settings to your own preference

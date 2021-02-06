@@ -12,4 +12,4 @@
 }
 ```
 
-This example uses [[eslint]], [[stylelint]],
+This example uses [[eslint]], [[stylelint]], [[imagemin]]

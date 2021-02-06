@@ -2,7 +2,7 @@
 
 `.editorconfig`
 
-```
+```sh
 # EditorConfig helps developers define and maintain consistent
 # coding styles between different editors and IDEs
 # editorconfig.org

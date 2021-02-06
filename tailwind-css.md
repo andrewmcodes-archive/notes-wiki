@@ -1,5 +1,14 @@
 # Tailwind CSS
 
+- [Tailwind CSS](#tailwind-css)
+  - [Tools/Plugins](#toolsplugins)
+  - [Starters/Examples](#startersexamples)
+  - [Resources](#resources)
+  - [Remembering all the classes](#remembering-all-the-classes)
+  - [Library size](#library-size)
+  - [Fixing crazy tag salad](#fixing-crazy-tag-salad)
+    - [Utility classes](#utility-classes)
+  - [Using CSS](#using-css)
 
 ## Tools/Plugins
 https://color.tailwindow.com

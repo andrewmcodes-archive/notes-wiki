@@ -1,6 +1,6 @@
 # Webmentions
 
-Easily one of the coolest things I've seen on the web lately.
+[Webmention](https://indieweb.org/Webmention)
 
 ## Tools
 

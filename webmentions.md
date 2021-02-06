@@ -1,6 +1,6 @@
 # Webmentions
 
-[Webmention](https://indieweb.org/Webmention)
+[Webmention](https://indieweb.org/Webmention) is a web standard for mentions and conversations across the web, a powerful building block that is used for a growing federated network of comments, likes, reposts, and other rich interactions across the decentralized social web.
 
 ## Tools
 

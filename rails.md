@@ -5,7 +5,6 @@
     - [Premium](#premium)
     - [Free](#free)
 
-
 ## Templates
 
 ### Premium

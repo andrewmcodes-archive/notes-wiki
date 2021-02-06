@@ -10,7 +10,7 @@
 
 ## Notes
 
-## Loading (11/10/2020)
+### Loading
 
 If you have a gem with a `lib/` folder structured like:
 

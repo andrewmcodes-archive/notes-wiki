@@ -1,6 +1,6 @@
 # Browserslist
 
-Browserslist can be configured via `.btowserslistrc`:
+[Browserslist](https://github.com/browserslist/browserslist) can be configured via `.btowserslistrc`:
 
 ```
 # Browsers that we support

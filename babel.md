@@ -14,7 +14,7 @@ yarn add @babel/preset-env --dev
 
 `babel.config.js`
 
-```
+```js
 {
   presets: [["@babel/preset-env", { shippedProposals: true }]]
 }

@@ -1,6 +1,6 @@
 # Log4brains
 
-Log4brains is a docs-as-code knowledge base for your development and infrastructure projects.
+[Log4brains](https://github.com/thomvaill/log4brains) is a docs-as-code knowledge base for your development and infrastructure projects. Basically a [[Documentation]]
 
 ## Install
 
@@ -30,7 +30,6 @@ project:
 
 ## Resources
 
-- [Repo and Documentation](https://github.com/thomvaill/log4brains)
 - [CI/CD Setup](https://github.com/thomvaill/log4brains#-cicd-configuration-examples)
 - [Architecture Decision Record](https://adr.github.io/)
 - [Screencast](https://www.youtube.com/watch?v=HDEwOCn9T0w)

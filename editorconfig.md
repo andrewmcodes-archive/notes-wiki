@@ -23,5 +23,4 @@ insert_final_newline = true
 # language specific commands
 [*.md]
 trim_trailing_whitespace = false
-
 ```

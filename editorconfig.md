@@ -1,7 +1,7 @@
 # Editorconfig
 
 - [[VS Code]] extension: [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
--
+
 ## Config
 
 `.editorconfig`

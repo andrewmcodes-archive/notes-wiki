@@ -9,7 +9,8 @@
 
 ### Premium
 
-- https://jumpstartrails.com
+- [Jumpstart Pro](https://jumpstartrails.com) from my good friend Chris Oliver
+
 ### Free
 
 - [GitHub - lazaronixon/the_construct: A Modern Rails Template](https://github.com/lazaronixon/the_construct)

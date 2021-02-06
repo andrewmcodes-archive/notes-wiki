@@ -1,6 +1,6 @@
 # Overmind
 
-[Overmind](https://github.com/DarthSim/overmind) is a process manager for [[Procfile]]-based applications and [[tmux]]. Easily run multiple processes together like [[Rails]], [[Webpacker]], and Sidekiq - no Foreman!
+[Overmind](https://github.com/DarthSim/overmind) is a process manager for [[Procfile]]-based applications and [[tmux]]. Easily run multiple processes together like [[Rails]], [[Webpacker]], and [[Sidekiq]] - no Foreman!
 
 ## Install
 

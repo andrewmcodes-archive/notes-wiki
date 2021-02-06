@@ -57,3 +57,9 @@ Setting your require paths from `lib` to `lib` and `lib/foobar` allows you to le
 + require "foo"
 + require "bar/baz"
 ```
+
+Get version number from external file:
+
+```rb
+VERSION = File.open("version.toml", File::RDONLY).read.strip
+```

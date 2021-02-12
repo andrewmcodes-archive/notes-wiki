@@ -1,6 +1,7 @@
 # Favicon
 
 - `.ico` files are actually a combination of files
+  - `convert ./icon32.png ./icon16.png ./favicon.ico`
 
 ## Generators
 

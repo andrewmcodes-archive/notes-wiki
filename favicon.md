@@ -1,6 +1,6 @@
 # Favicon
 
-There's just something about sites without a favicon that makes me distrust them...no idea why.
+- `.ico` files are actually a combination of files
 
 ## Generators
 

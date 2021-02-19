@@ -1,3 +1,5 @@
 # Gemspec
 
-My `.gemspec` template for [[Gems]]
+My `.gemspec` template for [[Gems]].
+
+```

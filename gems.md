@@ -5,7 +5,9 @@
 - Sign in: `gem signin`
 - Sign out: `gem signout`
 
+## Snippets
 
+- [[Gemspec]]
 ## Must Haves for [[Rails]] Devs
 
 - [GitHub - ivantsepp/annotate_gem: Add comments to your Gemfile with each dependency's description](https://github.com/ivantsepp/annotate_gem/)

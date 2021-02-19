@@ -15,3 +15,4 @@
 
 - [GitHub - lazaronixon/the_construct: A Modern Rails Template](https://github.com/lazaronixon/the_construct)
 - [GitHub - excid3/jumpstart: Easily jumpstart a new Rails application with a bunch of great features by default](https://github.com/excid3/jumpstart)
+- https://github.com/mattbrictson/rails-template

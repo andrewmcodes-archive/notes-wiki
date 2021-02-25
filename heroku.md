@@ -27,3 +27,5 @@ data = JSON.parse(response.body)
 deploys = data.select { |r| r["description"].start_with?("Deploy ") }
 puts deploys.map { |r| "GIT_COMMITTER_DATE='#{r["created_at"]}' git tag heroku/v#{r["version"]} " + r["description"][/[0-9a-f]{7}/] }.join("\n")
 ```
+
+Source: [github-release-party](https://github.com/stefansundin/github-release-party)

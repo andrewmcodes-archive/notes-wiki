@@ -1,3 +1,3 @@
 # Alfred
 
-Set terminal to
+Set terminal to [Archipelago](https://archipelago.dev/):

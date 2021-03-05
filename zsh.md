@@ -7,3 +7,7 @@
 ```bash
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma/zinit/master/doc/install.sh)"
 ```
+
+## Plugins
+
+### zsh-interactive-cd

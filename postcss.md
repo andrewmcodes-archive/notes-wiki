@@ -37,3 +37,5 @@ require('postcss-retina-bg-img')({
 require('cssnano'),
 require('postcss-reporter')({ clearReportedMessages: true }),
 ```
+
+export LANG=en_US.UTF-8

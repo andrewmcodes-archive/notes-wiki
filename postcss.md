@@ -38,4 +38,8 @@ require('cssnano'),
 require('postcss-reporter')({ clearReportedMessages: true }),
 ```
 
-export LANG=en_US.UTF-8
+## Errors
+
+`RangeError: Maximum call stack size exceeded`
+
+Add `export LANG=en_US.UTF-8` to zshrc.

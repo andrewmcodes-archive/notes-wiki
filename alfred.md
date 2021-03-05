@@ -1,2 +1,3 @@
 # Alfred
 
+Set terminal to

@@ -41,3 +41,26 @@ contentful_bootstrap create_space andrewmcodes --template blog
 ```
 
 Install cloudinary and graphql playground
+
+```
+query {
+  accountCollection {
+    items {
+      sys {
+        id
+        publishedAt
+        firstPublishedAt
+        publishedVersion
+      }
+      title
+      url
+      username
+      image {
+        title
+        url
+      }
+    }
+  }
+}
+
+```

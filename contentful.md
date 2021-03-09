@@ -64,3 +64,21 @@ query {
 }
 
 ```
+
+```
+query {
+  pageCollection {
+    items {
+      title
+      description
+      content
+      sys {
+        id
+        publishedAt
+        publishedVersion
+        firstPublishedAt
+      }
+    }
+  }
+}
+```

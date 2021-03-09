@@ -40,4 +40,4 @@ client = Contentful::Client.new(
 contentful_bootstrap create_space andrewmcodes --template blog
 ```
 
-Install cloudinary and
+Install cloudinary and graphql playground

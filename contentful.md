@@ -35,3 +35,7 @@ client = Contentful::Client.new(
   dynamic_entries: :auto
 )
 ```
+
+```
+contentful_bootstrap create_space andrewmcodes --template blog
+```

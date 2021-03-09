@@ -25,3 +25,13 @@ Add `gem "contentful"` to Gemfile.
 ![image](https://github.com/andrewmcodes/notes-wiki/raw/master/images/Tue_Mar_09_2021_1615269782177.png)
 
 ![image](https://github.com/andrewmcodes/notes-wiki/raw/master/images/Tue_Mar_09_2021_1615269975813.png)
+
+```ruby
+require 'dotenv/load'
+
+client = Contentful::Client.new(
+  space: ENV["CONTENTFUL_SPACE_ID"],
+  access_token: ENV["CONTENTFUL_ACCESS_TOKEN"],
+  dynamic_entries: :auto
+)
+```

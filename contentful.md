@@ -16,4 +16,6 @@ Add `gem "contentful"` to Gemfile.
 
 ![image](https://github.com/andrewmcodes/notes-wiki/raw/master/images/Tue_Mar_09_2021_1615269633762.png)
 
-**Uploading image 783636...**
+![image](https://github.com/andrewmcodes/notes-wiki/raw/master/images/Tue_Mar_09_2021_1615269655084.png)
+
+**Uploading image 427231...**

@@ -14,3 +14,4 @@ brew install --cask docker
 mkdir strapi
 cd strapi
 touch docker-compose.yml
+```

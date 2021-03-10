@@ -79,6 +79,7 @@ touch .env
 ```
 
 ```conf
+# .env
 CLOUDINARY_NAME = cloudinary-name
 CLOUDINARY_KEY = cloudinary-key
 CLOUDINARY_SECRET = cloudinary-secret
@@ -86,7 +87,6 @@ CLOUDINARY_SECRET = cloudinary-secret
 
 ```js
 // app/config/plugins.js
-
 module.exports = ({ env }) => ({
   upload: {
     provider: "cloudinary",

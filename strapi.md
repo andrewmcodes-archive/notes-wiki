@@ -50,3 +50,11 @@ services:
       POSTGRES_PASSWORD: strapi
       POSTGRES_DB: strapi
 ```
+
+## Setup Strapi
+
+```
+docker-compose up -D
+```
+
+This will take a good minute.

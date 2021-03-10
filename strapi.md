@@ -60,3 +60,5 @@ docker-compose up -D
 This will take a good minute - watch the logs to know when it's ready. This will auto create a strapi app for us since one does not already exist. When the site is ready, you will see a notice in the logs that it is available at `http://localhost:1337/admin/`. Go to that URL and you will be prompted to create a new account. After you do that you will be in your new strapi cms.
 
 ![image](https://github.com/andrewmcodes/notes-wiki/raw/master/images/Wed_Mar_10_2021_1615356497181.png)
+
+## Install Plugins

@@ -62,3 +62,5 @@ This will take a good minute - watch the logs to know when it's ready. This will
 ![image](https://github.com/andrewmcodes/notes-wiki/raw/master/images/Wed_Mar_10_2021_1615356497181.png)
 
 ## Install Plugins
+
+Go to the marketplace tab and install the GraphQL and Documentation plugins.

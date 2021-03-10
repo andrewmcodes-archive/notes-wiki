@@ -68,3 +68,9 @@ Go to the marketplace tab and install the GraphQL and Documentation plugins.
 ![image](https://github.com/andrewmcodes/notes-wiki/raw/master/images/Wed_Mar_10_2021_1615356565638.png)
 
 Strapi will restart but this doesn't always work so you may need to restart the container. You can tell by watching the logs and checking for errors or determining if it has stalled somewhere. Just restart the container.
+
+### Cloudinary
+
+```
+yarn add strapi-provider-upload-cloudinary graphql
+```

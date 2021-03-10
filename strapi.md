@@ -72,13 +72,13 @@ Strapi will restart but this doesn't always work so you may need to restart the 
 ### Cloudinary
 
 
-```
+```bash
 yarn add strapi-provider-upload-cloudinary graphql
 touch app/config/plugins.js
 touch .env
 ```
 
-```
+```conf
 CLOUDINARY_NAME = cloudinary-name
 CLOUDINARY_KEY = cloudinary-key
 CLOUDINARY_SECRET = cloudinary-secret

@@ -57,4 +57,4 @@ services:
 docker-compose up -D
 ```
 
-This will take a good minute.
+This will take a good minute but use your tool of choice or

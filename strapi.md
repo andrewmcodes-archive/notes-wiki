@@ -71,6 +71,7 @@ Strapi will restart but this doesn't always work so you may need to restart the 
 
 ### Cloudinary
 
+
 ```
 yarn add strapi-provider-upload-cloudinary graphql
 ```

@@ -58,3 +58,9 @@ I use zsh so I will add it to my zsh config instead of bash:
 ```bash
 echo 'export PATH="$(yarn global bin):$PATH"` >> ~/.zshrc
 ```
+
+Now if I restart my terminal and run:
+
+```bash
+yarn global add terminalizer
+```

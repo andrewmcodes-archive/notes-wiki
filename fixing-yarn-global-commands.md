@@ -30,4 +30,4 @@ However, if I try to use the `terminalizer` command in my terminal, I get a comm
 npm install -g terminalizer
 ```
 
-Which works.
+Which works. ::shrug

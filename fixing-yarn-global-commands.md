@@ -46,3 +46,5 @@ Since I installed Yarn through [[homebrew]], I just assumed it would be `/usr/lo
 
 /Users/andrew.mason/.asdf/installs/nodejs/14.16.0/.npm/bin
 ```
+
+In order to run executables at this location, the file path has to be in my `PATH`. I know this because I spent way too much time debugging path issues earlier in my career due to my insistence on installing **all the things** when it came to styling my editor prompt. The outout of `echo $PATH` confirmed my suspicion:

@@ -51,4 +51,7 @@ In order to run executables at this location, the file path has to be in my `PAT
 
 Thankfully, the Yarn docs confirm that my `PATH` is the issue and also provide the solution:
 
+>To use the installed packages, the install location has to be added to the PATH environment variable of your shell. For bash for example, you can add this line at the end of your .bashrc:
+```
+export PATH="$(yarn global bin):$PATH"
 ```

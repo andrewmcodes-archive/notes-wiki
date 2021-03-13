@@ -6,6 +6,11 @@ However, where I deviated on my love for yarn was when it came to globally insta
 
 To illustrate what I mean, I will use [faressoft/terminalizer](https://github.com/faressoft/terminalizer) as an example.
 
+```bash
+yarn global add terminalizer
+```
+
+Weirdly, everything looks like it worked.
 ```
 npm install -g terminalizer
 ```

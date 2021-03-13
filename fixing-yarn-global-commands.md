@@ -32,4 +32,4 @@ npm install -g terminalizer
 
 `¯\_(ツ)_/¯`
 
-Today is different though because I just so happened to have seen my probably while looking in the yarn docs for a command.
+Today is different though because I just so happened to have seen my probably while looking in the yarn docs for a different command. Since I installed yarn through [[homebrew]]

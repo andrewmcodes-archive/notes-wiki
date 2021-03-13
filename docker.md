@@ -21,4 +21,4 @@ captain ls
 ```
 
 This will outpt all available projects regardless of where you are in relation to that project.
-Start a project with the `start project-name`
+Start a project with the `start project-name` and stop with `stop project-name`.

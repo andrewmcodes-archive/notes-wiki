@@ -65,3 +65,5 @@ Now if I restart my terminal and run:
 yarn global add terminalizer
 terminalizer record hello-world
 ```
+
+![gif](https://terminalizer.com/view/30a427ab4731)

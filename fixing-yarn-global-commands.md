@@ -10,8 +10,21 @@ To illustrate what I mean, I will use [faressoft/terminalizer](https://github.co
 yarn global add terminalizer
 ```
 
-Weirdly, everything looks like it worked...
+Weirdly, everything looks like it worked. Here is the output:
 
+```bash
+❯ yarn global add terminalizer
+yarn global v1.22.10
+[1/4] 🔍  Resolving packages...
+[2/4] 🚚  Fetching packages...
+[3/4] 🔗  Linking dependencies...
+[4/4] 🔨  Building fresh packages...
+success Installed "terminalizer@0.7.2" with binaries:
+      - terminalizer
+✨  Done in 19.12s.
+```
+
+but when I run
 ```bash
 success Installed "terminalizer@0.7.2" with binaries:
       - terminalizer

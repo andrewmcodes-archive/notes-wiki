@@ -32,4 +32,4 @@ npm install -g terminalizer
 
 `¯\_(ツ)_/¯`
 
-Today is different though because I just so happened to have seen my probably while looking in the yarn docs for a different command. Since I installed yarn through [[homebrew]]
+Today is different though because I just so happened to have seen my probably while looking in the yarn docs for a different command. Since I installed yarn through [[homebrew]], `which yarn` I know that it should be somewhere in `usr/local`

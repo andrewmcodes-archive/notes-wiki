@@ -63,4 +63,5 @@ Now if I restart my terminal and run:
 
 ```bash
 yarn global add terminalizer
+terminalizer record hello-world
 ```

@@ -66,4 +66,6 @@ yarn global add terminalizer
 terminalizer record hello-world
 ```
 
-![](https://terminalizer.com/view/30a427ab4731.gif)
+It works! Our undefined error is gone and I am put into a recording session for terminalizer.
+
+[Here's a link to my recording if you're curious!](https://terminalizer.com/view/30a427ab4731)

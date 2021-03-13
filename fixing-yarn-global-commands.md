@@ -66,4 +66,4 @@ yarn global add terminalizer
 terminalizer record hello-world
 ```
 
-![gif](https://terminalizer.com/view/30a427ab4731)
+![](https://terminalizer.com/view/30a427ab4731.gif)

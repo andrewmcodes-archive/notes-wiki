@@ -14,10 +14,11 @@ curl -L https://github.com/jenssegers/captain/releases/download/0.3.3/captain-os
 
 #### Usage
 
-To see a list of running docker-compose projects, use the `ls` command:
+To see a list of available projects, use the `ls` command:
 
 ```bash
 captain ls
 ```
 
+This will outpt
 Start a project with the `start project-name`

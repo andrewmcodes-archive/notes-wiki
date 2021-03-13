@@ -37,7 +37,9 @@ Today is different though because I just so happened to see a command in the Yar
 
 >`yarn global bin` will output the location where Yarn will install symlinks to your installed executables.
 
-Since I installed Yarn through [[homebrew]], I just assumed it would be `/usr/local/bin/yarn` without giving it another thought. It actually is pointing to an executable in the asdf folder for my current Node version:
+Since I installed Yarn through [[homebrew]], I just assumed it would be `/usr/local/bin/yarn` without giving it another thought. It actually is pointing to an executable in the asdf folder for my current Node version.
+
+>If you are unfamiliar with asdf, check out
 
 ```
 ❯ yarn global bin

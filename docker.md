@@ -10,4 +10,9 @@ Captain searches for docker-compose projects in your `$HOME` folder and allows y
 curl -L https://github.com/jenssegers/captain/releases/download/0.3.3/captain-osx > /usr/local/bin/captain && chmod +x /usr/local/bin/captain
 ```
 
-Once captain is installed,
+#### List
+
+To see a list of running docker-compose projects, run:
+
+```sh
+docker ls

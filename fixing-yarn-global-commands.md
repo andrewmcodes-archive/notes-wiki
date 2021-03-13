@@ -24,13 +24,10 @@ success Installed "terminalizer@0.7.2" with binaries:
 ✨  Done in 19.12s.
 ```
 
-but when I run
-```bash
-success Installed "terminalizer@0.7.2" with binaries:
-      - terminalizer
-```
+However, if I try to use the `terminalizer` command in my terminal, I get a command not found. In the past, this is where I would just run npm and move on:
 
-However, I s
 ```
 npm install -g terminalizer
 ```
+
+Which works.

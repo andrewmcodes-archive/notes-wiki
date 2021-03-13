@@ -20,5 +20,5 @@ To see a list of available projects, use the `ls` command:
 captain ls
 ```
 
-This will outpt
+This will outpt all available projects regardless of where you are in relation to that project.
 Start a project with the `start project-name`

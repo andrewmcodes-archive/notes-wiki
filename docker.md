@@ -19,3 +19,5 @@ To see a list of running docker-compose projects, use the `ls` command:
 ```bash
 captain ls
 ```
+
+Start a project with the `start project-name`

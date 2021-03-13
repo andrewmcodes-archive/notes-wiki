@@ -32,4 +32,6 @@ npm install -g terminalizer
 
 `¯\_(ツ)_/¯`
 
-Today is different though because I just so happened to have seen my probably while looking in the yarn docs for a different command. Since I installed yarn through [[homebrew]], `which yarn` should return `/usr/local/bin/yarn`, which it does.
+Today is different though because I just so happened to see a command in the Yarn documentation that would instantly reveal my issue.
+
+Since I installed yarn through [[homebrew]], `which yarn` should return `/usr/local/bin/yarn`, which it does.

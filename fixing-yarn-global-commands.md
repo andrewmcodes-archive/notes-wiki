@@ -10,7 +10,14 @@ To illustrate what I mean, I will use [faressoft/terminalizer](https://github.co
 yarn global add terminalizer
 ```
 
-Weirdly, everything looks like it worked.
+Weirdly, everything looks like it worked...
+
+```bash
+success Installed "terminalizer@0.7.2" with binaries:
+      - terminalizer
+```
+
+However, I s
 ```
 npm install -g terminalizer
 ```

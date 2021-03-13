@@ -36,4 +36,4 @@ Today is different though because I just so happened to see a command in the Yar
 
 >`yarn global bin` will output the location where Yarn will install symlinks to your installed executables.
 
-Since I installed yarn through [[homebrew]], `which yarn` should return `/usr/local/bin/yarn`, which it does.
+Since I installed Yarn through [[homebrew]], I just assumed it would be `/usr/local/bin/yarn`; however, it was actually point to a bin file instead

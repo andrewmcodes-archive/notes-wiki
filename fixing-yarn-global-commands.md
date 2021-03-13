@@ -34,4 +34,6 @@ npm install -g terminalizer
 
 Today is different though because I just so happened to see a command in the Yarn documentation that would instantly reveal my issue.
 
+>`yarn global bin` will output the location where Yarn will install symlinks to your installed executables.
+
 Since I installed yarn through [[homebrew]], `which yarn` should return `/usr/local/bin/yarn`, which it does.

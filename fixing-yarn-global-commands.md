@@ -14,6 +14,7 @@ Weirdly, everything looks like it worked. Here is the output:
 
 ```bash
 ❯ yarn global add terminalizer
+
 yarn global v1.22.10
 [1/4] 🔍  Resolving packages...
 [2/4] 🚚  Fetching packages...
@@ -36,4 +37,10 @@ Today is different though because I just so happened to see a command in the Yar
 
 >`yarn global bin` will output the location where Yarn will install symlinks to your installed executables.
 
-Since I installed Yarn through [[homebrew]], I just assumed it would be `/usr/local/bin/yarn`; however, it was actually point to a bin file instead
+Since I installed Yarn through [[homebrew]], I just assumed it would be `/usr/local/bin/yarn` without giving it another thought. It actually is pointing to an executable in the asdf folder for my current Node version:
+
+```
+❯ yarn global bin
+
+/Users/andrew.mason/.asdf/installs/nodejs/14.16.0/.npm/bin
+```

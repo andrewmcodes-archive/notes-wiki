@@ -30,4 +30,6 @@ However, if I try to use the `terminalizer` command in my terminal, I get a comm
 npm install -g terminalizer
 ```
 
-Which works.
+`¯\_(ツ)_/¯`
+
+Today is different though because I just so happened to have seen my probably while looking in the yarn docs for a command.

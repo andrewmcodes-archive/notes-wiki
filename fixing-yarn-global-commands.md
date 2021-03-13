@@ -4,7 +4,8 @@ I use Yarn to manage my node dependencies instead of npm, mostly because Rails c
 
 However, where I deviated on my love for yarn was when it came to globally installing packages. For some reason, global installs via yarn never seemed to produce an executable, whereas npm did. I hadn't been able to figure out the reason and I honestly didn't care, I just always globally installed packages via npm.
 
-To illustrate what I mean, I will use
+To illustrate what I mean, I will use [faressoft/terminalizer](https://github.com/faressoft/terminalizer) as an example.
+
 ```
 npm install -g terminalizer
 ```

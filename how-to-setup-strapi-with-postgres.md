@@ -13,3 +13,5 @@ yarn create strapi-app backend
 ```
 
 Select postgres as your database and enter your credentials.
+
+Once the generator runs, `cd` into the directory and run `yarn develop`.
